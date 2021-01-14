@@ -1,1 +1,1 @@
-![Header](https://github.com/Blockbench90/Blockbench90/blob/main/assets/header..jpg)
+[![Header](https://github.com/Blockbench90/Blockbench90/blob/main/assets/header..jpg)](https://github.com/Blockbench90)
